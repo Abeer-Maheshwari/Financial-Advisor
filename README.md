@@ -1,8 +1,11 @@
 # Financial Advisor
 
+**Author**: Abeer Maheshwari
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+##
 A **local AI Financial Advisor** that analyses images of complex financial graphs, charts, or website screenshots and provides insightful feedback/advice.
 
 This project uses local vision-language models (ollama) that interpret the visual financial data, ensuring privacy and offline capability.
